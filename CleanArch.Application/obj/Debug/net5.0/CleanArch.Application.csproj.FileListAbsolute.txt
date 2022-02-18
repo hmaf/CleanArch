@@ -1,0 +1,15 @@
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\bin\Debug\net5.0\ref\CleanArch.Application.dll
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
+C:\Users\CSS\source\repos\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
